@@ -1,0 +1,12 @@
+#key	value
+name	Fornax Realtors
+byline	Building Trust, Brick by Brick
+safeName	aztras-fornax
+footer-message	An Aztras Site.
+iconName	Fornax Realtors
+siteMenuName	Fornax
+scaffold	sitemap	TODO
+sections	from-tsv
+local-url	http://localhost/aztras/businesses/fornax/
+live-url	https://fornax.aztras.com/
+year	2025
