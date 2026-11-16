@@ -1,9 +1,10 @@
-## 1. Seller
+## 1. Sellers
 
-### Owner(s)
 %sellers%
 
 <hr />
+
+## 1b Seller Details
 
 * Extents
 * Funds Required
@@ -56,11 +57,7 @@ for Registration in Our Company Name
 
 ## 10. Intimation to Seller
 
-### Sellers Contacted
-%sellers%
-
-<hr />
-
+* Seller Message
 * SRO Calendar Schedule
 
 ## 11. Collecton of Registered Sale Deeds
