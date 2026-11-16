@@ -5,7 +5,6 @@ safeName	aztras-fornax
 footer-message	An Aztras Site.
 iconName	Fornax Realtors
 siteMenuName	Fornax
-scaffold	sitemap	TODO
 sections	from-tsv
 local-url	http://localhost/sites/aztras/realty/fornax/
 live-url	https://fornax.aztras.com/
